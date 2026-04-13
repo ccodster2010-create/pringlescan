@@ -1,0 +1,31 @@
+body {
+    background-color: #212631;
+
+}
+h1 {
+    color: #8745a3;
+    font-size: 60px;
+    margin-left: 75%;
+}
+h2 {
+    color: #ba2406;
+    font-size: 30px;
+    margin-left: 50%;
+}
+p {
+    color: #c5d0de;
+    font-size: 25px;
+    margin-left: 50%;
+}
+.photogroup {
+    display: flex;
+    gap: 15px;
+    margin-left: 20%;
+}
+.photogroup img {
+    max-width: 200px;
+    height: auto;
+    border: 30px solid #8745a3;
+    object-fit: cover;
+
+}
