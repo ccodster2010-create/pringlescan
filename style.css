@@ -22,7 +22,7 @@ p {
     width: 75%;
     gap: 2%;
     margin-left: 20%;
-    border: 15px dashed #8745a3;
+    border: 5px dashed #8745a3;
     box-sizing: border-box;
 }
 .photogroup img {
