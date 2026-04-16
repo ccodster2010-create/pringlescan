@@ -19,14 +19,15 @@ p {
 }
 .photogroup {
     display: flex;
-    gap: 15px;
+    width: 75%;
+    gap: 2%;
     margin-left: 20%;
     border: 30px solid #8745a3;
+    box-sizing: border-box;
 }
-.photogroup {
-    max-width: 200px;
+.photogroup img {
+    max-width: 25%;
     height: auto;
-    
     object-fit: cover;
 
 }
