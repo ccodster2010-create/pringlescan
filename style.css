@@ -21,11 +21,9 @@ p {
     display: flex;
     gap: 15px;
     margin-left: 20%;
-}
-.photogroup img {
-    max-width: 25%
+    max-width: 200px;
     height: auto;
-    border: 10px solid #8745a3;
+    border: 30px solid #8745a3;
     object-fit: cover;
 
 }
