@@ -5,7 +5,7 @@ body {
 h1 {
     color: #8745a3;
     font-size: 60px;
-    margin-right: 75%;
+    margin-right: 10%;
 }
 h2 {
     color: #ba2406;
@@ -15,14 +15,14 @@ h2 {
 p {
     color: #c5d0de;
     font-size: 25px;
-    margin-right: 50%;
+    margin-right: 25%;
 }
 .photogroup {
     display: flex;
     width: 75%;
     gap: 2%;
     margin-left: 20%;
-    border: 30px solid #8745a3;
+    border: 15px dashed #8745a3;
     box-sizing: border-box;
 }
 .photogroup img {
